@@ -1,0 +1,23 @@
+## Libraries
+*.a
+
+## Object files
+*.o
+
+## Executables
+*.out
+fillit
+push_swap
+checker
+lem-in
+asm
+corewar
+ft_ls
+
+## Valgrind Files
+*.dSYM
+vgcore.*
+
+## OSX Files
+*._*
+.DS_Store
