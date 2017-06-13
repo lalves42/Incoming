@@ -16,7 +16,7 @@ void			advanced_ls(t_env *env)
 {
 	get_args_type(env);
 	sort_args_type(env);
-//	check_files(env);
+/*	check_files(env);
 //	if (ft_strchr(FLAG_CHARS, 't'))
 //		sort_args_time;
 //	else
@@ -24,4 +24,5 @@ void			advanced_ls(t_env *env)
 //	if (ft_strchr(FLAG_CHARS, 'r'))
 //		sort_args_reverse;
 //	check_lst(env);
+*/
 }
